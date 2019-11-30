@@ -1,1 +1,1 @@
-# classdemostration-this repository is to entertain the professor. 
+# classdemostration-this repository is to follow class activities. 
